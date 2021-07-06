@@ -1,5 +1,4 @@
 **k8s 安装文档**
-![k8s集群优化01-etcd+api](./ops/k8s集群优化01-etcd+api.png)
 
 **一些简介**
 
@@ -10,6 +9,7 @@
   #一些可参考的网站和文档
   * [rbac](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
   * [创建用户](https://github.com/rootsongjc/kubernetes-handbook/blob/master/guide/kubectl-user-authentication-authorization.md)
+  * ![k8s集群优化01-etcd+api](./ops/k8s集群优化01-etcd+api.png)
 	# 目录
 	  * [k8s v.1.10.0 二进制安装](./1.k8s v.1.10.0 二进制安装.md)
 	  * [calico网络设置](./2.k8s 二进制安装集群-calico网络设置.md)
