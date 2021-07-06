@@ -4,3 +4,4 @@
 * [rbac的说明](./rbac简介.md)
 * [整体架构](./k8s整体架构.md)
 * [pod服务监控](./pod服务的监控.md)
+* [k8s集群优化01-etcd+api](./k8s集群优化01-etcd+api.png)
