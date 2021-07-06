@@ -1,4 +1,5 @@
 **k8s 安装文档**
+![k8s集群优化01-etcd+api](./ops/k8s集群优化01-etcd+api.png)
 
 **一些简介**
 
