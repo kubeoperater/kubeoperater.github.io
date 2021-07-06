@@ -1,1 +1,5 @@
 theme: jekyll-theme-architect
+name: www.unicode.vip
+url: "https://www.unicode.vip"
+markdown: kramdown
+description: My kubernetes NoteBook
