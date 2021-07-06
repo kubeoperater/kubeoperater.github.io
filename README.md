@@ -2,19 +2,6 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-**k8s 安装文档**
-
-**一些简介**
-
-* 本文档采用k8s v1.10.0二进制的集群部署方式，主要更改 使用kube-router 代理kube-proxy,使用ingress-nginx做边缘负载,使用haproxy+heartbeat实现高可用
-
-	* 本文档持续更新，后续将继续深入了解prometheus，helm等组件，已经投产之后的一些故障和高可用方案。
-
-  #一些可参考的网站和文档
-  * [rbac](https://kubernetes.io/docs/reference/access-authn-authz/rbac/)
-  * [创建用户](https://github.com/rootsongjc/kubernetes-handbook/blob/master/guide/kubectl-user-authentication-authorization.md)
-  * ![k8s集群优化01-etcd+api](./ops/k8s集群优化01-etcd+api.png)
-
 - [目录](#%E7%9B%AE%E5%BD%95)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
