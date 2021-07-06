@@ -1,8 +1,5 @@
 theme: jekyll-theme-cayman
-name: www.unicode.vip
 url: "https://www.unicode.vip"
 markdown: kramdown
 description: My kubernetes NoteBook
-categories: www.unicode.vip
 title: www.unicode.vip
-tagline:  A responsive theme for your project on GitHub Pages
