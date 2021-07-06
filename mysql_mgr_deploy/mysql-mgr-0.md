@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [mysql-mgr-0-pod.yaml](#mysql-mgr-0-podyaml)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 **1.部署方案**
 
 - mgr 部署需要提前在配置文件里写集群节点的ip+端口或者是域名+端口

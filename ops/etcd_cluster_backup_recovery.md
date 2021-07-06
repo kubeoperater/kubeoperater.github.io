@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [参考文档](#%E5%8F%82%E8%80%83%E6%96%87%E6%A1%A3)
+      - [etcd 集群失败容忍表](#etcd-%E9%9B%86%E7%BE%A4%E5%A4%B1%E8%B4%A5%E5%AE%B9%E5%BF%8D%E8%A1%A8)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 参考文档
 
 [参考文档 etcd cluster 备份恢复](https://github.com/coreos/etcd/blob/master/Documentation/op-guide/recovery.md)

@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [转载自https://github.com/rootsongjc/kubernetes-handbook.git](#%E8%BD%AC%E8%BD%BD%E8%87%AAhttpsgithubcomrootsongjckubernetes-handbookgit)
+- [安装配置CoreDNS](#%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AEcoredns)
+  - [部署CoreDNS](#%E9%83%A8%E7%BD%B2coredns)
+  - [参考](#%E5%8F%82%E8%80%83)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # [转载自https://github.com/rootsongjc/kubernetes-handbook.git](https://github.com/rootsongjc/kubernetes-handbook.git)
 
 # 安装配置CoreDNS

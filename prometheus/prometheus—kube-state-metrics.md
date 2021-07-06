@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [这里说明一下：](#%E8%BF%99%E9%87%8C%E8%AF%B4%E6%98%8E%E4%B8%80%E4%B8%8B)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 - 1. 克隆kube-state-metrics 代码仓库
 
 git clone https://github.com/kubernetes/kube-state-metrics.git

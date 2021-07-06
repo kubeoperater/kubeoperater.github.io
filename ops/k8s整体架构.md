@@ -1,3 +1,13 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [k8s部署完成之后的一些梳理和维护工作](#k8s%E9%83%A8%E7%BD%B2%E5%AE%8C%E6%88%90%E4%B9%8B%E5%90%8E%E7%9A%84%E4%B8%80%E4%BA%9B%E6%A2%B3%E7%90%86%E5%92%8C%E7%BB%B4%E6%8A%A4%E5%B7%A5%E4%BD%9C)
+  - [Kubernetes主要由以下几个核心组件组成：](#kubernetes%E4%B8%BB%E8%A6%81%E7%94%B1%E4%BB%A5%E4%B8%8B%E5%87%A0%E4%B8%AA%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E7%BB%84%E6%88%90)
+  - [除了核心组件，还有一些推荐的Add-ons：](#%E9%99%A4%E4%BA%86%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6%E8%BF%98%E6%9C%89%E4%B8%80%E4%BA%9B%E6%8E%A8%E8%8D%90%E7%9A%84add-ons)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # k8s部署完成之后的一些梳理和维护工作
 
 整体架构图:

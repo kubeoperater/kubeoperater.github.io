@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [需要注意两点：](#%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%E4%B8%A4%E7%82%B9)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 [参考连接1](http://blog.51cto.com/net592/2059315)
 
 [https://github.com/cloudnativelabs/kube-router/tree/master/daemonset](https://github.com/cloudnativelabs/kube-router/tree/master/daemonset

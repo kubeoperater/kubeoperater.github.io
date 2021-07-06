@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [其实flume有官方的docker镜像，我们是因为flume自定义过，所以需要这种方式。](#%E5%85%B6%E5%AE%9Eflume%E6%9C%89%E5%AE%98%E6%96%B9%E7%9A%84docker%E9%95%9C%E5%83%8F%E6%88%91%E4%BB%AC%E6%98%AF%E5%9B%A0%E4%B8%BAflume%E8%87%AA%E5%AE%9A%E4%B9%89%E8%BF%87%E6%89%80%E4%BB%A5%E9%9C%80%E8%A6%81%E8%BF%99%E7%A7%8D%E6%96%B9%E5%BC%8F)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 1. 实现需求：每个pod的日志都会被flume收集到elk里
 2. flume dockerfile：
 
